@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**JoaoVicttor07/JoaoVicttor07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi! My name is **João Victor**, and I've been passionate about technology for as long as I can remember. I'm currently studying **Computer Science** at university. I have a strong affinity for **front-end development** and **JavaScript**, but I’m also expanding my knowledge into **mobile development** using **Kotlin**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Web Development**: HTML, CSS, JavaScript, React.js
+- **Mobile Development**: Kotlin (currently learning and improving)
+- **Databases**: Familiar with SQL Server and MySQL
+
+## Contact
+
+- **LinkedIn**: https://www.linkedin.com/in/jo%C3%A3o-victor-santos-da-costa-3835b0272/
+- **Email**: joaovictorsdc07@gmail.com
