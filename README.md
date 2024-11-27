@@ -1,16 +1,20 @@
-# Welcome to my GitHub! 👋
+<h1 align="center">👋 Olá, me chamo João Victor</h1>
 
-## About Me
+<p align="center">
+  💻 Graduando em Ciência da Computação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-Hi! My name is **João Victor**, and I've been passionate about technology for as long as I can remember. I'm currently studying **Computer Science** at university. I have a strong affinity for **front-end development** and **JavaScript**, but I’m also expanding my knowledge into **mobile development** using **Kotlin**.
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,css,kotlin)](https://skillicons.dev)<br><br>
 
-## Skills
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
-- **Web Development**: HTML, CSS, JavaScript, React.js
-- **Mobile Development**: Kotlin (currently learning and improving)
-- **Databases**: Familiar with SQL Server and MySQL
+## 📫 Contato
 
-## Contact
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SeuEmail)](mailto:joaovictorsdc07@gmail.com)
+[![Linkedin: Joao](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovicttor/)]([https://www.linkedin.com/in/joaovicttor/](https://www.linkedin.com/in/jo%C3%A3o-victor-santos-da-costa-3835b0272/))
 
-- **LinkedIn**: https://www.linkedin.com/in/jo%C3%A3o-victor-santos-da-costa-3835b0272/
-- **Email**: joaovictorsdc07@gmail.com
+![JoaoVicttor07 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVicttor07&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br>
