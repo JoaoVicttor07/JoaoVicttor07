@@ -51,5 +51,10 @@
 
 ---
 
+## 🐍 Snake Animation
+
+![snake gif](https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/output/dist/github-contribution-grid-snake.svg)
+
+
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 😄
