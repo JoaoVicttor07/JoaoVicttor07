@@ -53,8 +53,10 @@
 
 ## 🐍 Snake Animation
 
-![snake gif](https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/output/dist/github-contribution-grid-snake.svg)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/main/dist/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/main/dist/github-contribution-grid-snake.svg">
+</picture>
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 😄
