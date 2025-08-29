@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Graduando em Ciência da Computação <br>
-  💙 Focado em Desenvolvimento Front-End <br>
+  Front-End developer <br>
   🌍 Apaixonado por criar interfaces incríveis e experiências digitais
 </p>
 
@@ -36,22 +36,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVicttor07&theme=radical&row=1&no-bg=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictorsdc07@gmail.com)](mailto:joaovictorsdc07@gmail.com)
 [![Linkedin: Joao](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictorsdc/)](https://www.linkedin.com/in/joaovictorsdc/)
 
 ---
-
-## 🐍 Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVicttor07/JoaoVicttor07/main/dist/github-contribution-grid-snake-dark.svg">
